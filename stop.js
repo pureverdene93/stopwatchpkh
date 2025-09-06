@@ -1,7 +1,3 @@
-const bodyy = document.getElementById("body");
-
-bodyy.classList.add("boyy");
-
 const tsag = document.createElement("div");
 tsag.classList.add("tsag");
 tsag.innerHTML = "00 : 00 : 00";
